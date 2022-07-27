@@ -1,0 +1,77 @@
+{
+  "OE_KurzusokFelhasznalokkalAdat": [
+    {
+      "TargyKod": "ABCDECHBNE",
+      "TargyNev": "Random Tárgy",
+      "KurzusKod": "EA",
+      "Felev": "2021/22/2",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat": [
+        {
+          "NeptunKod": "876ZTR"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat": [
+        {
+          "NeptunKod": "ABC123"
+        },
+        {
+          "NeptunKod": "DEF456"
+        }
+      ]
+    },
+    {
+      "TargyKod": "ABCDEFHBNE",
+      "TargyNev": "Random TárgyLabor",
+      "KurzusKod": "GY",
+      "Felev": "2021/22/2",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat": [
+        {
+          "NeptunKod": "425ADS"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat": [
+        {
+          "NeptunKod": "ABC123"
+        }
+      ]
+    },
+    {
+      "TargyKod": "ABCDEFHBNE",
+      "TargyNev": "ÁrvízTűrőTükörFúróGép",
+      "KurzusKod": "..*%&@",
+      "Felev": "2021/22/2",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat": [
+        {
+          "NeptunKod": "876ZTR"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat": [
+        {
+          "NeptunKod": "425ADS"
+        }
+      ]
+    },
+    {
+      "TargyKod": "ABCDEFHBNE",
+      "TargyNev": "ÁrvízTűrőTükörFúróGép",
+      "KurzusKod": "GY001_",
+      "Felev": "2021/22/2",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat": [
+        {
+          "NeptunKod": ""
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat": [
+        {
+          "NeptunKod": "ABC123"
+        },
+        {
+          "NeptunKod": "ERTWQR"
+        },
+        {
+          "NeptunKod": "ZUJTTQ"
+        }
+      ]
+    }
+  ]
+}

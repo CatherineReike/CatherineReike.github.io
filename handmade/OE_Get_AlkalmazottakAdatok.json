@@ -1,0 +1,24 @@
+{
+  "OE_AlkalmazottakAdat": [
+    {
+      "UserID": "159357456",
+      "NeptunKod": "876ZTR",
+      "VezetekNev": "Mezei",
+      "KeresztNev": "Virág",
+      "TeljesNev": "Dr. Mezei Virág",
+      "Email": "mezei.virag@example.com",
+      "UserLastChanged": "2022-02-21T23:51:35",
+      "EmailLastChanged": "2021-04-28T09:47:08"
+    },
+    {
+      "UserID": "951753789",
+      "NeptunKod": "425ADS",
+      "VezetekNev": "Vincs",
+      "KeresztNev": "Peter",
+      "TeljesNev": "Vincs Peter",
+      "Email": "vincs.eszter@example.com",
+      "UserLastChanged": "2022-02-20T19:24:20",
+      "EmailLastChanged": "2014-01-18T21:36:55"
+    }
+  ]
+}

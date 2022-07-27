@@ -1,0 +1,64 @@
+{
+  "OE_AktivJogviszonyosHallgatokAdat": [
+    {
+      "UserID": "123456789",
+      "NeptunKod": "ABC123",
+      "VezetekNev": "Teszt",
+      "KeresztNev": "Benedek Elek",
+      "TeljesNev": "Ifj. Teszt Benedek Elek",
+      "Email": "test.elek@example.com",
+      "UserLastChanged": "2022-02-21T23:56:46",
+      "EmailLastChanged": "2021-07-23T14:40:27"
+    },
+    {
+      "UserID": "987654321",
+      "NeptunKod": "DEF456",
+      "VezetekNev": "Gipsz",
+      "KeresztNev": "Jakab",
+      "TeljesNev": "Gipsz Jakab",
+      "Email": "gipsz.jakab@gmail.com",
+      "UserLastChanged": "2022-02-22T00:09:31",
+      "EmailLastChanged": "2018-08-27T22:02:32"
+    },
+    {
+      "UserID": "951753789",
+      "NeptunKod": "425ADS",
+      "VezetekNev": "Vincs",
+      "KeresztNev": "Eszter",
+      "TeljesNev": "Vincs Eszter",
+      "Email": "vincs.eszter@example.com",
+      "UserLastChanged": "2022-02-20T19:24:20",
+      "EmailLastChanged": "2014-01-18T21:36:55"
+    },
+    {
+      "UserID": "951735378",
+      "NeptunKod": "GS78TT",
+      "VezetekNev": "Rab",
+      "KeresztNev": "Virág",
+      "TeljesNev": "Rab Virág",
+      "Email": "",
+      "UserLastChanged": "2022-02-20T19:24:20",
+      "EmailLastChanged": "2014-01-18T21:36:55"
+    },
+    {
+      "UserID": "949735378",
+      "NeptunKod": "ZUJTTQ",
+      "VezetekNev": "Kincs",
+      "KeresztNev": "Amigdala",
+      "TeljesNev": "Kincs Amigdala",
+      "Email": "null",
+      "UserLastChanged": "2022-02-20T19:24:20",
+      "EmailLastChanged": "2014-01-18T21:36:55"
+    },
+    {
+      "UserID": "949735346",
+      "NeptunKod": "ERTWQR",
+      "VezetekNev": "Kiss",
+      "KeresztNev": "János",
+      "TeljesNev": "Dr. Kiss János",
+      "Email": "null",
+      "UserLastChanged": "2022-02-20T19:24:20",
+      "EmailLastChanged": "2014-01-18T21:36:55"
+    }
+  ]
+}
